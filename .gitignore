@@ -1,0 +1,42 @@
+#Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.v2
+*.pdb
+*.cache
+
+#User specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+#ASPNET Scaffolding
+ScaffoldingReadMe.txt
+
+#DOTNET Generated
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+#VS Code
+.vscode/
+
+#Visual Studio
+.vs/
+
+#Rider
+.idea/
+
+#Logs
+*.logs
+
+#Secrets
+secrets.json
+
+#appsettings sensitive data
+appsettings.Production.json
+appsettings.Development.json
